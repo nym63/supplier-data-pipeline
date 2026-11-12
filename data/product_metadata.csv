@@ -1,0 +1,401 @@
+part_id,part_name,category
+SP-101,Electronic Pump,Electronics
+SP-102,Engine Sensor,Engine
+SP-103,Engine Pad Set,Engine
+SP-104,Filter Rotor,Filters
+SP-105,Brake Rotor,Brakes
+SP-106,Supenion Pad Set,Suspension
+SP-107,Brake Gasket,Brakes
+SP-108,HVAC Gasket,HVAC
+SP-109,Engine Pump,Engine
+SP-110,Filter Sensor,Filters
+SP-111,Brake Rotor,Brakes
+SP-112,Electronic Pad Set,Electronics
+SP-113,Engine Pad Set,Engine
+SP-114,Engine Filter,Engine
+SP-115,Electronic Rotor,Electronics
+SP-116,Brake Filter,Brakes
+SP-117,Engine Rotor,Engine
+SP-118,Exhaut Pump,Exhaust
+SP-119,Filter Sensor,Filters
+SP-120,Engine Sensor,Engine
+SP-121,Filter Pad Set,Filters
+SP-122,Supenion Sensor,Suspension
+SP-123,Electronic Gasket,Electronics
+SP-124,Filter Filter,Filters
+SP-125,Brake Rotor,Brakes
+SP-126,Supenion Pump,Suspension
+SP-127,Electronic Gasket,Electronics
+SP-128,HVAC Sensor,HVAC
+SP-129,Brake Rotor,Brakes
+SP-130,HVAC Sensor,HVAC
+SP-131,Filter Filter,Filters
+SP-132,HVAC Pad Set,HVAC
+SP-133,Brake Rotor,Brakes
+SP-134,Brake Pump,Brakes
+SP-135,Exhaut Pump,Exhaust
+SP-136,Supenion Pad Set,Suspension
+SP-137,Supenion Sensor,Suspension
+SP-138,Supenion Sensor,Suspension
+SP-139,HVAC Gasket,HVAC
+SP-140,Electronic Gasket,Electronics
+SP-141,Brake Filter,Brakes
+SP-142,Exhaut Gasket,Exhaust
+SP-143,Filter Pad Set,Filters
+SP-144,HVAC Gasket,HVAC
+SP-145,Electronic Rotor,Electronics
+SP-146,Brake Sensor,Brakes
+SP-147,Engine Sensor,Engine
+SP-148,Brake Gasket,Brakes
+SP-149,Engine Sensor,Engine
+SP-150,Supenion Gasket,Suspension
+SP-151,Supenion Pad Set,Suspension
+SP-152,Supenion Filter,Suspension
+SP-153,Supenion Pad Set,Suspension
+SP-154,Supenion Pump,Suspension
+SP-155,HVAC Pad Set,HVAC
+SP-156,Electronic Filter,Electronics
+SP-157,HVAC Filter,HVAC
+SP-158,HVAC Sensor,HVAC
+SP-159,Engine Sensor,Engine
+SP-160,Supenion Gasket,Suspension
+SP-161,Supenion Sensor,Suspension
+SP-162,Filter Gasket,Filters
+SP-163,Electronic Pump,Electronics
+SP-164,HVAC Pad Set,HVAC
+SP-165,HVAC Pump,HVAC
+SP-166,Brake Pad Set,Brakes
+SP-167,Filter Pump,Filters
+SP-168,Brake Pad Set,Brakes
+SP-169,HVAC Filter,HVAC
+SP-170,HVAC Rotor,HVAC
+SP-171,Engine Filter,Engine
+SP-172,HVAC Pad Set,HVAC
+SP-173,Exhaut Rotor,Exhaust
+SP-174,Brake Pad Set,Brakes
+SP-175,Filter Sensor,Filters
+SP-176,Exhaut Pump,Exhaust
+SP-177,Engine Pad Set,Engine
+SP-178,Filter Sensor,Filters
+SP-179,Filter Pump,Filters
+SP-180,Exhaut Pad Set,Exhaust
+SP-181,Brake Rotor,Brakes
+SP-182,Brake Pad Set,Brakes
+SP-183,Electronic Filter,Electronics
+SP-184,Filter Pad Set,Filters
+SP-185,Electronic Sensor,Electronics
+SP-186,Electronic Rotor,Electronics
+SP-187,Brake Filter,Brakes
+SP-188,Supenion Filter,Suspension
+SP-189,Exhaut Pump,Exhaust
+SP-190,Exhaut Pad Set,Exhaust
+SP-191,HVAC Gasket,HVAC
+SP-192,Electronic Gasket,Electronics
+SP-193,Supenion Rotor,Suspension
+SP-194,HVAC Sensor,HVAC
+SP-195,Engine Pump,Engine
+SP-196,Supenion Sensor,Suspension
+SP-197,Exhaut Pump,Exhaust
+SP-198,Electronic Gasket,Electronics
+SP-199,Engine Gasket,Engine
+SP-200,HVAC Sensor,HVAC
+SP-201,Electronic Filter,Electronics
+SP-202,HVAC Filter,HVAC
+SP-203,Electronic Sensor,Electronics
+SP-204,Brake Gasket,Brakes
+SP-205,Supenion Pad Set,Suspension
+SP-206,Electronic Rotor,Electronics
+SP-207,Electronic Pump,Electronics
+SP-208,Filter Pad Set,Filters
+SP-209,Brake Filter,Brakes
+SP-210,Exhaut Sensor,Exhaust
+SP-211,Electronic Gasket,Electronics
+SP-212,Engine Pad Set,Engine
+SP-213,HVAC Sensor,HVAC
+SP-214,Supenion Rotor,Suspension
+SP-215,Brake Sensor,Brakes
+SP-216,Brake Pad Set,Brakes
+SP-217,Exhaut Pad Set,Exhaust
+SP-218,Brake Pad Set,Brakes
+SP-219,Supenion Gasket,Suspension
+SP-220,Supenion Rotor,Suspension
+SP-221,Engine Rotor,Engine
+SP-222,Filter Pump,Filters
+SP-223,Exhaut Rotor,Exhaust
+SP-224,Brake Gasket,Brakes
+SP-225,Exhaut Filter,Exhaust
+SP-226,Exhaut Sensor,Exhaust
+SP-227,Filter Pad Set,Filters
+SP-228,Electronic Filter,Electronics
+SP-229,Electronic Gasket,Electronics
+SP-230,Supenion Rotor,Suspension
+SP-231,Supenion Rotor,Suspension
+SP-232,Electronic Pad Set,Electronics
+SP-233,Supenion Sensor,Suspension
+SP-234,HVAC Gasket,HVAC
+SP-235,Brake Gasket,Brakes
+SP-236,HVAC Sensor,HVAC
+SP-237,Electronic Gasket,Electronics
+SP-238,Exhaut Filter,Exhaust
+SP-239,Engine Pump,Engine
+SP-240,HVAC Gasket,HVAC
+SP-241,Filter Pad Set,Filters
+SP-242,Exhaut Rotor,Exhaust
+SP-243,Supenion Sensor,Suspension
+SP-244,Filter Sensor,Filters
+SP-245,Electronic Filter,Electronics
+SP-246,Filter Rotor,Filters
+SP-247,Exhaut Filter,Exhaust
+SP-248,Electronic Sensor,Electronics
+SP-249,Electronic Rotor,Electronics
+SP-250,Exhaut Filter,Exhaust
+SP-251,Electronic Filter,Electronics
+SP-252,Supenion Gasket,Suspension
+SP-253,Brake Pump,Brakes
+SP-254,Electronic Filter,Electronics
+SP-255,Brake Pump,Brakes
+SP-256,HVAC Rotor,HVAC
+SP-257,Supenion Filter,Suspension
+SP-258,Brake Rotor,Brakes
+SP-259,Exhaut Pad Set,Exhaust
+SP-260,Brake Sensor,Brakes
+SP-261,Brake Pump,Brakes
+SP-262,Filter Gasket,Filters
+SP-263,Filter Filter,Filters
+SP-264,Filter Pad Set,Filters
+SP-265,Electronic Rotor,Electronics
+SP-266,HVAC Pump,HVAC
+SP-267,HVAC Gasket,HVAC
+SP-268,Brake Pump,Brakes
+SP-269,Exhaut Gasket,Exhaust
+SP-270,Exhaut Sensor,Exhaust
+SP-271,HVAC Pad Set,HVAC
+SP-272,Engine Filter,Engine
+SP-273,Supenion Pad Set,Suspension
+SP-274,Exhaut Pad Set,Exhaust
+SP-275,Brake Pump,Brakes
+SP-276,Electronic Pump,Electronics
+SP-277,Exhaut Rotor,Exhaust
+SP-278,Engine Pump,Engine
+SP-279,Electronic Rotor,Electronics
+SP-280,Electronic Pump,Electronics
+SP-281,Supenion Pump,Suspension
+SP-282,Electronic Pump,Electronics
+SP-283,HVAC Sensor,HVAC
+SP-284,Electronic Pump,Electronics
+SP-285,HVAC Pump,HVAC
+SP-286,Engine Pump,Engine
+SP-287,Supenion Rotor,Suspension
+SP-288,Filter Pad Set,Filters
+SP-289,Exhaut Pad Set,Exhaust
+SP-290,Engine Rotor,Engine
+SP-291,HVAC Pump,HVAC
+SP-292,Exhaut Pump,Exhaust
+SP-293,Exhaut Pump,Exhaust
+SP-294,Engine Sensor,Engine
+SP-295,Supenion Pump,Suspension
+SP-296,Filter Sensor,Filters
+SP-297,Supenion Pad Set,Suspension
+SP-298,Brake Sensor,Brakes
+SP-299,Exhaut Sensor,Exhaust
+SP-300,Brake Filter,Brakes
+SP-301,Supenion Filter,Suspension
+SP-302,Filter Gasket,Filters
+SP-303,Engine Filter,Engine
+SP-304,Supenion Sensor,Suspension
+SP-305,Supenion Rotor,Suspension
+SP-306,Electronic Filter,Electronics
+SP-307,Supenion Rotor,Suspension
+SP-308,Filter Sensor,Filters
+SP-309,Exhaut Gasket,Exhaust
+SP-310,Filter Pad Set,Filters
+SP-311,Filter Pad Set,Filters
+SP-312,Brake Pump,Brakes
+SP-313,Supenion Pad Set,Suspension
+SP-314,Engine Sensor,Engine
+SP-315,Supenion Rotor,Suspension
+SP-316,HVAC Gasket,HVAC
+SP-317,Supenion Rotor,Suspension
+SP-318,Electronic Pad Set,Electronics
+SP-319,HVAC Rotor,HVAC
+SP-320,Filter Filter,Filters
+SP-321,Engine Gasket,Engine
+SP-322,Filter Pad Set,Filters
+SP-323,Supenion Sensor,Suspension
+SP-324,Exhaut Gasket,Exhaust
+SP-325,Filter Sensor,Filters
+SP-326,Brake Filter,Brakes
+SP-327,Supenion Gasket,Suspension
+SP-328,Engine Sensor,Engine
+SP-329,Exhaut Pad Set,Exhaust
+SP-330,Supenion Gasket,Suspension
+SP-331,Exhaut Gasket,Exhaust
+SP-332,HVAC Gasket,HVAC
+SP-333,Supenion Gasket,Suspension
+SP-334,Supenion Sensor,Suspension
+SP-335,HVAC Pump,HVAC
+SP-336,HVAC Gasket,HVAC
+SP-337,Filter Rotor,Filters
+SP-338,Electronic Filter,Electronics
+SP-339,Electronic Rotor,Electronics
+SP-340,HVAC Pump,HVAC
+SP-341,HVAC Pump,HVAC
+SP-342,Brake Sensor,Brakes
+SP-343,Supenion Pump,Suspension
+SP-344,Filter Rotor,Filters
+SP-345,Electronic Rotor,Electronics
+SP-346,HVAC Pad Set,HVAC
+SP-347,Filter Pad Set,Filters
+SP-348,Filter Rotor,Filters
+SP-349,Engine Pump,Engine
+SP-350,HVAC Rotor,HVAC
+SP-351,Exhaut Sensor,Exhaust
+SP-352,Brake Filter,Brakes
+SP-353,Exhaut Filter,Exhaust
+SP-354,Supenion Pump,Suspension
+SP-355,Filter Rotor,Filters
+SP-356,HVAC Pump,HVAC
+SP-357,Engine Pad Set,Engine
+SP-358,HVAC Gasket,HVAC
+SP-359,Brake Sensor,Brakes
+SP-360,Exhaut Gasket,Exhaust
+SP-361,Supenion Filter,Suspension
+SP-362,HVAC Sensor,HVAC
+SP-363,Supenion Rotor,Suspension
+SP-364,Filter Pad Set,Filters
+SP-365,Brake Pad Set,Brakes
+SP-366,Electronic Sensor,Electronics
+SP-367,Exhaut Sensor,Exhaust
+SP-368,HVAC Rotor,HVAC
+SP-369,Exhaut Rotor,Exhaust
+SP-370,HVAC Gasket,HVAC
+SP-371,Engine Gasket,Engine
+SP-372,Engine Gasket,Engine
+SP-373,Engine Filter,Engine
+SP-374,Electronic Pad Set,Electronics
+SP-375,Brake Gasket,Brakes
+SP-376,Filter Gasket,Filters
+SP-377,Electronic Rotor,Electronics
+SP-378,HVAC Sensor,HVAC
+SP-379,Brake Pump,Brakes
+SP-380,Filter Gasket,Filters
+SP-381,Supenion Sensor,Suspension
+SP-382,Exhaut Pad Set,Exhaust
+SP-383,Electronic Gasket,Electronics
+SP-384,Brake Filter,Brakes
+SP-385,Exhaut Sensor,Exhaust
+SP-386,Brake Pad Set,Brakes
+SP-387,Exhaut Rotor,Exhaust
+SP-388,Filter Rotor,Filters
+SP-389,Brake Pump,Brakes
+SP-390,Filter Filter,Filters
+SP-391,Electronic Filter,Electronics
+SP-392,HVAC Rotor,HVAC
+SP-393,Supenion Filter,Suspension
+SP-394,Electronic Pad Set,Electronics
+SP-395,Exhaut Gasket,Exhaust
+SP-396,Electronic Filter,Electronics
+SP-397,Filter Rotor,Filters
+SP-398,HVAC Pad Set,HVAC
+SP-399,Brake Filter,Brakes
+SP-400,Electronic Rotor,Electronics
+SP-401,Brake Sensor,Brakes
+SP-402,Exhaut Pump,Exhaust
+SP-403,Exhaut Sensor,Exhaust
+SP-404,Filter Sensor,Filters
+SP-405,Exhaut Filter,Exhaust
+SP-406,Engine Gasket,Engine
+SP-407,Filter Gasket,Filters
+SP-408,Engine Sensor,Engine
+SP-409,HVAC Pad Set,HVAC
+SP-410,Engine Rotor,Engine
+SP-411,Electronic Pump,Electronics
+SP-412,Filter Pump,Filters
+SP-413,HVAC Gasket,HVAC
+SP-414,Filter Pump,Filters
+SP-415,HVAC Pad Set,HVAC
+SP-416,Supenion Sensor,Suspension
+SP-417,Brake Filter,Brakes
+SP-418,Brake Pump,Brakes
+SP-419,Supenion Pump,Suspension
+SP-420,Electronic Sensor,Electronics
+SP-421,Engine Sensor,Engine
+SP-422,Supenion Filter,Suspension
+SP-423,Filter Gasket,Filters
+SP-424,Brake Pump,Brakes
+SP-425,Engine Pad Set,Engine
+SP-426,Exhaut Pump,Exhaust
+SP-427,HVAC Pump,HVAC
+SP-428,Filter Gasket,Filters
+SP-429,Filter Pad Set,Filters
+SP-430,Exhaut Filter,Exhaust
+SP-431,HVAC Sensor,HVAC
+SP-432,Brake Pump,Brakes
+SP-433,HVAC Gasket,HVAC
+SP-434,Engine Filter,Engine
+SP-435,HVAC Pump,HVAC
+SP-436,Electronic Rotor,Electronics
+SP-437,Engine Pad Set,Engine
+SP-438,Electronic Sensor,Electronics
+SP-439,Exhaut Sensor,Exhaust
+SP-440,Filter Rotor,Filters
+SP-441,Brake Filter,Brakes
+SP-442,Supenion Pump,Suspension
+SP-443,Exhaut Pump,Exhaust
+SP-444,HVAC Sensor,HVAC
+SP-445,Electronic Gasket,Electronics
+SP-446,Filter Pad Set,Filters
+SP-447,Supenion Rotor,Suspension
+SP-448,Brake Pad Set,Brakes
+SP-449,Supenion Pad Set,Suspension
+SP-450,Exhaut Filter,Exhaust
+SP-451,Supenion Pad Set,Suspension
+SP-452,Exhaut Sensor,Exhaust
+SP-453,Electronic Filter,Electronics
+SP-454,Engine Rotor,Engine
+SP-455,Brake Pump,Brakes
+SP-456,Supenion Sensor,Suspension
+SP-457,Exhaut Pad Set,Exhaust
+SP-458,Exhaut Gasket,Exhaust
+SP-459,Brake Pump,Brakes
+SP-460,Filter Filter,Filters
+SP-461,HVAC Filter,HVAC
+SP-462,Electronic Pump,Electronics
+SP-463,Brake Pad Set,Brakes
+SP-464,Exhaut Pump,Exhaust
+SP-465,Filter Rotor,Filters
+SP-466,Supenion Pad Set,Suspension
+SP-467,Filter Pad Set,Filters
+SP-468,Electronic Pump,Electronics
+SP-469,Electronic Gasket,Electronics
+SP-470,Electronic Rotor,Electronics
+SP-471,Electronic Pad Set,Electronics
+SP-472,HVAC Filter,HVAC
+SP-473,Supenion Pad Set,Suspension
+SP-474,Electronic Filter,Electronics
+SP-475,Engine Rotor,Engine
+SP-476,Engine Filter,Engine
+SP-477,Brake Pump,Brakes
+SP-478,Engine Pad Set,Engine
+SP-479,Supenion Gasket,Suspension
+SP-480,Brake Rotor,Brakes
+SP-481,Brake Pad Set,Brakes
+SP-482,Exhaut Filter,Exhaust
+SP-483,Supenion Pump,Suspension
+SP-484,Brake Gasket,Brakes
+SP-485,Filter Pad Set,Filters
+SP-486,Electronic Pad Set,Electronics
+SP-487,Exhaut Filter,Exhaust
+SP-488,Engine Gasket,Engine
+SP-489,Exhaut Filter,Exhaust
+SP-490,Electronic Sensor,Electronics
+SP-491,Exhaut Gasket,Exhaust
+SP-492,Supenion Gasket,Suspension
+SP-493,Engine Sensor,Engine
+SP-494,Electronic Rotor,Electronics
+SP-495,Supenion Pump,Suspension
+SP-496,Electronic Rotor,Electronics
+SP-497,Brake Gasket,Brakes
+SP-498,Brake Pump,Brakes
+SP-499,Brake Pad Set,Brakes
+SP-500,Brake Filter,Brakes
